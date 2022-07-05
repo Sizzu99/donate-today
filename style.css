@@ -11,14 +11,14 @@ body{
 .first-part h1{
     font-size: 70px;
     color: rgb(255, 255, 255);
-    margin-left:40%;
+    margin-left:370px;
     width: 590px;
     text-align: center;
     
 }
 .first-part p{
-    margin-left:40%;
-    width: 60%;
+    margin-left:370px;
+    width: 600px;
     text-align: center;
     color: white;
 }
@@ -35,7 +35,7 @@ body{
     padding: 10px 25px;
     border-radius: 10px;
     font-weight: 700;
-    margin-left: 65%;
+    margin-left: 600px;
 }
 .second-part h1{
     font-size: 50px;
@@ -57,7 +57,7 @@ body{
     width: 90px;
     padding: 2%;
     padding-left: 2px;
-    border-radius: 20px;
+    border-radius: 10px;
     height: 60px;
     text-align: center;
     background-color: aliceblue;
@@ -67,8 +67,26 @@ body{
     width: 90px;
     padding: 2%;
     padding-left: 2px;
-    border-radius: 20px;
+    border-radius: 10px;
     height: 60px;
     text-align: center;
     background-color: rgb(223, 119, 119);
+}
+.other-amount{
+    margin-left: 600px;
+    color: gray;
+    font-weight: 300;
+}
+.hr{
+    width: 600px;
+}
+.button-bottom{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(253, 122, 122),rgb(250, 139, 119));
+    color: wheat;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-left: 600px;
+    margin-top: 20px;
 }
