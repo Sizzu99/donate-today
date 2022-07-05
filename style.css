@@ -1,0 +1,51 @@
+body{
+   
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+.first-section{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    height:600px;
+}
+.first-part h1{
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    margin-left:40%;
+    width: 60%;
+    text-align: center;
+    
+}
+.first-part p{
+    margin-left:40%;
+    width: 60%;
+    text-align: center;
+    color: white;
+}
+.falxible-contaoiner{
+    display: flex;
+}
+.margin-top{
+    margin-top: 100px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(253, 122, 122),rgb(250, 139, 119));
+    color: wheat;
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-left: 65%;
+}
+.second-part h1{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    margin-left: 550px;
+    width: 100%;
+}
+.second-part p{
+    margin-left:55%;
+    width: 60%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
